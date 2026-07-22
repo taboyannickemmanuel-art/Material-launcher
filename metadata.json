@@ -1,0 +1,6 @@
+{
+  "name": "Material Launcher",
+  "description": "High-performance Material 3 landscape launcher for Android tablets with dynamic Monet colors, widget host, app drawer, and master-detail settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
